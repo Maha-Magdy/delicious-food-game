@@ -17,6 +17,9 @@ This game is concentration game for people who love fast food like Mcdonalds,KFC
 - LuckiestGuy font (font installed from Google Fonts)
 - all audio that used in the game from https://freesound.org/ 
 
+### Live Demo
+- https://maha-magdy.github.io/delicious-food-game/
+
 > **wish you best luck in Game** 
 
   
