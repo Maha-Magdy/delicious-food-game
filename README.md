@@ -18,7 +18,7 @@ This game is concentration game for people who love fast food like Mcdonalds,KFC
 - all audio that used in the game from https://freesound.org/ 
 
 ### Live Demo
-- https://maha-magdy.github.io/delicious-food-game/
+https://maha-magdy.github.io/delicious-food-game/
 
 > **wish you best luck in Game** 
 
