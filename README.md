@@ -20,6 +20,6 @@ This game is a concentration game for people who love fast food like Mcdonalds, 
 ### Live Demo
 https://maha-magdy.github.io/delicious-food-game/
 
-> **wish you best luck in Game** 
+> **wish you the best of luck in the Game.** 
 
   
