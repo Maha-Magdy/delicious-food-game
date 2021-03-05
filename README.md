@@ -1,6 +1,6 @@
 # Delicious Food Game
 
-This game is concentration game for people who love fast food like Mcdonalds,KFC and so on.
+This game is a concentration game for people who love fast food like Mcdonalds, KFC, and so on. Built with Javascript.
 
 ## instruction For Game
 
