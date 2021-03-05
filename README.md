@@ -13,12 +13,18 @@ This game is a concentration game for people who love fast food like Mcdonalds, 
   - Try to finish the game with the lowest number of movements and time
 
 ### code dependencies
+
 - animate.css ( library used for animation for the game)
 - LuckiestGuy font (font installed from Google Fonts)
 - all audio that used in the game from https://freesound.org/ 
 
 ### Live Demo
+
 https://maha-magdy.github.io/delicious-food-game/
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 > **wish you the best of luck in the Game.** 
 
