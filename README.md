@@ -20,7 +20,7 @@ This game is a concentration game for people who love fast food like Mcdonalds, 
 
 ### Live Demo
 
-https://maha-magdy.github.io/delicious-food-game/
+[Live Demo Link](https://maha-magdy.github.io/delicious-food-game/)
 
 ## Show your support
 
